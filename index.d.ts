@@ -56,3 +56,4 @@ export declare const UserService: UserService;
 export declare const VoiceChatService: VoiceChatService;
 export declare const VRService: VRService;
 export declare const Workspace: Workspace;
+export declare const StudioService: StudioService;
